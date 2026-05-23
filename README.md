@@ -126,11 +126,6 @@ social-media-mental-health-dashboard/
 └── README.md
 ```
 
----
-
-## 📸 Dashboard Preview
-
-![Dashboard Overview](C:\Users\user\Pictures\Screenshots\dashboard_overview.png)
 
 ---
 
