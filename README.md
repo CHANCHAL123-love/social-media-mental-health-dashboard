@@ -130,7 +130,7 @@ social-media-mental-health-dashboard/
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](C:\Users\user\Pictures\Screenshots\dashboard_overview.png)
 
 ---
 
